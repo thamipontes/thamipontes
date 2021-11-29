@@ -5,16 +5,16 @@
 ```javascript
 const Thamires = {
     apelido: "Pedrinha",
-    linguagens: ["C", "C++", "Typescript", "HTML5", "CSS3", "Python", "Java", "JavaScript", "SQL"],
-    aprendendo: ["C#", "Unity", "ReactJS", "AWS", "GCP", "FaaS"],
+    linguagens: ["Java", "C#", "SQL", "C", "C++", "Typescript", "HTML5", "CSS3", "Python", "JavaScript"],
+    aprendendo: ["ReactJS", "AWS", "GCP", "FaaS"],
     plataformas: "Arduino",
     ferramentas: [
-       "Angular", "Node", "Linux",
-       "Photoshop", "Illustrator", "Figma",
-       "Mysql", "Postgres", "MongoDB"
+       "Spring", "Docker", "SonarQube", "Jenkins", "Angular", 
+       "Linux", "Photoshop", "Illustrator", "Figma",
+       "Mysql", "Postgres", "MongoDB", "Metodologia Ágil"
     ],
     membro: {
-        Projetos: ["DROID", "Meninas.comp", "BOSS", "Laços da Alegria"]        
+        Projetos: ["DROID", "Meninas.comp", "Mundo Bit Byte", "BOSS", "Laços da Alegria"]        
     },
     sobreMim: {
         amor: ["Tecnologia", "Cachorros", "Ensinar", "Animes", "Séries", "Robôs"],
